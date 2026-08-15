@@ -15,7 +15,7 @@ A lo largo de la historia el relato va siendo acompañado con cuadros interactiv
 Otro recurso que me pareció interesante fueron los "botones" que te hacen avanzar a segmentos específicos de la historia, en este caso por las 5 generaciones del k-pop
 
 ![alt text](image-3.png)
-
+***
 En este caso solo utilizaron tres gráficos para destacar datos que parecen relevantes para enfatizar un cambio repentino y muy evidente con respecto a la industria 
 
 ![alt text](image-5.png)
@@ -32,4 +32,6 @@ Al final de la webstory se encuentra este recuadro:
 
 ![alt text](image-9.png)
 
-Lo que está subrayado en rojo es lo que me llamó la atención, 
+Lo que subrayé en rojo es lo que me llamó la atención. No solo pusieron una "bibliografía" sino que también dejaron a disposisión las tablas con los datos en los que se basaron para los gráficos.
+
+![alt text](image-10.png)
