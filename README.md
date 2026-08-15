@@ -2,6 +2,7 @@
 Esta webstory ilustra la **evolución de la industria del kpop** a nivel mundial usando como hilo conductor la historia de dos amigas de nacionalidad coreana viviendo en los Estados Unidos [Url de la webstory](https://pudding.cool/2026/05/kpop-generations/)
 ***
 ![alt text](image.png)
+
 Eunice y Minji usan su historia personal y de amistad para contar la evolución del kpop, desde la música hasta los views y como la cultura coreana llegó a todo el mundo. 
 En el relato mezclan el contexto social y conceptos de estudio como _"soft power"_ y el _"Hallyu"_. También abordan la inmigración, siendo ellas inmigrantes coreanas en Estados Unidos. Pero con especial foco en evaluar la evolución histórica del kpop.
 
@@ -19,6 +20,10 @@ En este caso solo utilizaron tres gráficos para destacar datos que parecen rele
 
 ![alt text](image-5.png)
 
-![alt text](image-6.png)
+![alt text](image-8.png)
+....* Este gráfico en particular me gustó, ya que si pones el puntero sobre algún circulo es un grupo de k-pop distinto correspondiente a esa generacion
 
 ![alt text](image-7.png)
+....* También me gustaron las especificaciones de este gráfico, hacen que la información sea más transparente y más entendible. 
+
+Creo que es destacable el nivel estético de los gráficos que siguen la concordancia de toda la webstory 
