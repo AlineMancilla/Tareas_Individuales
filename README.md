@@ -29,4 +29,7 @@ En este caso solo utilizaron tres gráficos para destacar datos que parecen rele
 **Creo que es destacable el nivel estético de los gráficos ya que siguen la concordancia de toda la webstory**
 ***
 Al final de la webstory se encuentra este recuadro:
+
 ![alt text](image-9.png)
+
+Lo que está subrayado en rojo es lo que me llamó la atención, 
