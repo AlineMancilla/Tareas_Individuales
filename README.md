@@ -21,9 +21,9 @@ En este caso solo utilizaron tres gráficos para destacar datos que parecen rele
 ![alt text](image-5.png)
 
 ![alt text](image-8.png)
-....* Este gráfico en particular me gustó, ya que si pones el puntero sobre algún circulo es un grupo de k-pop distinto correspondiente a esa generacion
+⋅⋅⋅⋅* Este gráfico en particular me gustó, ya que si pones el puntero sobre algún circulo es un grupo de k-pop distinto correspondiente a esa generacion
 
 ![alt text](image-7.png)
-....* También me gustaron las especificaciones de este gráfico, hacen que la información sea más transparente y más entendible. 
+⋅⋅⋅⋅* También me gustaron las especificaciones de este gráfico, hacen que la información sea más transparente y más entendible. 
 
 Creo que es destacable el nivel estético de los gráficos que siguen la concordancia de toda la webstory 
