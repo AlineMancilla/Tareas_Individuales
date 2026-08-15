@@ -8,11 +8,11 @@ En el relato mezclan el contexto social y conceptos de estudio como _"soft power
 
 ### Gráficos e interactividad
 La página no es en extremo interactiva, aunque sí es visualmente atractiva a través de los colores y la ilustraciones.
-###### No se vuelve monotono a pesar de que hay un claro estilo definido. Por ejemplo, el color de fondo de la página cambia gradualmente de color mientras bajas por ella, y con esto tambien cambia el colos de la letra, más no la tipografía.
+###### No se vuelve monotono a pesar de que hay un claro estilo definido. Por ejemplo, el color de fondo de la página cambia gradualmente de color mientras bajas por ella, y con esto también cambia el color de la letra, más no la tipografía.
 A lo largo de la historia el relato va siendo acompañado con cuadros interactivos que reproducen canciones que de la época de la que se está hablando. Pienso que esto más allá de interactuar con el botón de "play" es un recurso ilustrativo y otorga mucho más contexto, con las canciones es evidente el cambio en el género del k-pop al inicio de la historia con respecto al final.
 
 ![alt text](image-2.png)
-
+###### Lo dramático de la línea de "Gangnam Style" en este gráfico  acentua el tono con el que se cuenta el hecho.
 Otro recurso que me pareció interesante fueron los "botones" que te hacen avanzar a segmentos específicos de la historia, en este caso por las 5 generaciones del k-pop
 
 ![alt text](image-3.png)
@@ -22,10 +22,10 @@ En este caso solo utilizaron tres gráficos para destacar datos que parecen rele
 ![alt text](image-5.png)
 
 ![alt text](image-8.png)
-###### Este gráfico en particular me gustó, ya que si pones el puntero sobre algún circulo es un grupo de k-pop distinto correspondiente a esa generacion
+###### Este gráfico en particular me gustó, ya que si pones el puntero sobre algún circulo es un grupo de k-pop distinto correspondiente a esa generación. Es mucho más visualmente atractivo que solo hacer una lista enorme con cinco columnas.
 
 ![alt text](image-7.png)
-###### También me gustaron las especificaciones de este gráfico, hacen que la información sea más transparente y más entendible. 
+###### Ocurre lo mismo en este gráfico con el de "Gangnam Style". También me gustaron las especificaciones al pie del gráfico, hacen que la información sea más transparente y más entendible. 
 
 **Creo que es destacable el nivel estético de los gráficos ya que siguen la concordancia de toda la webstory**
 ***
