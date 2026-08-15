@@ -12,7 +12,7 @@ La página no es en extremo interactiva, aunque sí es visualmente atractiva a t
 A lo largo de la historia el relato va siendo acompañado con cuadros interactivos que reproducen canciones que de la época de la que se está hablando. Pienso que esto más allá de interactuar con el botón de "play" es un recurso ilustrativo y otorga mucho más contexto, con las canciones es evidente el cambio en el género del k-pop al inicio de la historia con respecto al final.
 
 ![alt text](image-2.png)
-###### Lo dramático de la línea de "Gangnam Style" en este gráfico  acentua el tono con el que se cuenta el hecho.
+
 Otro recurso que me pareció interesante fueron los "botones" que te hacen avanzar a segmentos específicos de la historia, en este caso por las 5 generaciones del k-pop
 
 ![alt text](image-3.png)
@@ -20,6 +20,8 @@ Otro recurso que me pareció interesante fueron los "botones" que te hacen avanz
 En este caso solo utilizaron tres gráficos para destacar datos que parecen relevantes para enfatizar un cambio repentino y muy evidente con respecto a la industria 
 
 ![alt text](image-5.png)
+###### Lo dramático de la línea de "Gangnam Style" en este gráfico  acentua el tono con el que se cuenta el hecho.
+
 
 ![alt text](image-8.png)
 ###### Este gráfico en particular me gustó, ya que si pones el puntero sobre algún circulo es un grupo de k-pop distinto correspondiente a esa generación. Es mucho más visualmente atractivo que solo hacer una lista enorme con cinco columnas.
