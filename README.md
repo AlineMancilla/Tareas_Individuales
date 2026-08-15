@@ -8,7 +8,17 @@ En el relato mezclan el contexto social y conceptos de estudio como _"soft power
 ### Gráficos e interactividad
 La página no es en extremo interactiva, aunque sí es visualmente atractiva a través de los colores y la ilustraciones.
 A lo largo de la historia el relato va siendo acompañado con cuadros interactivos que reproducen canciones que de la época de la que se está hablando. Pienso que esto más allá de interactuar con el botón de "play" es un recurso ilustrativo y otorga mucho más contexto, con las canciones es evidente el cambio en el género del k-pop al inicio de la historia con respecto al final.
+
 ![alt text](image-2.png)
 
 Otro recurso que me pareció interesante fueron los "botones" que te hacen avanzar a segmentos específicos de la historia, en este caso por las 5 generaciones del k-pop
+
 ![alt text](image-3.png)
+
+En este caso solo utilizaron tres gráficos para destacar datos que parecen relevantes para enfatizar un cambio repentino y muy evidente con respecto a la industria 
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
