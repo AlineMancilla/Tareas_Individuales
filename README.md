@@ -37,7 +37,7 @@ Al final de la webstory se encuentra este recuadro:
 
 ![alt text](image-9.png)
 
-Lo que subrayé en rojo es lo que me llamó la atención. No solo pusieron una "bibliografía" sino que también dejaron a disposisión las tablas con los datos en los que se basaron para los gráficos. Incluso hiceon un trabajo de recopilación manual a través de fuentes publicas para el caso de los conciertos reallizados.
+Lo que subrayé en rojo es lo que me llamó la atención. No solo pusieron una "bibliografía" sino que también dejaron a disposisión las tablas con los datos en los que se basaron para los gráficos. Incluso hiceon un trabajo de recopilación manual a través de fuentes publicas para el caso de los conciertos realizados.
 
 ![alt text](image-10.png)
 ***
